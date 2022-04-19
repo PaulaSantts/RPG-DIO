@@ -1,0 +1,15 @@
+C:\Users\eula_\Documents\RPG- DIO\bin\Debug\net6.0\RPG- DIO.exe
+C:\Users\eula_\Documents\RPG- DIO\bin\Debug\net6.0\RPG- DIO.deps.json
+C:\Users\eula_\Documents\RPG- DIO\bin\Debug\net6.0\RPG- DIO.runtimeconfig.json
+C:\Users\eula_\Documents\RPG- DIO\bin\Debug\net6.0\RPG- DIO.dll
+C:\Users\eula_\Documents\RPG- DIO\bin\Debug\net6.0\RPG- DIO.pdb
+C:\Users\eula_\Documents\RPG- DIO\obj\Debug\net6.0\RPG- DIO.csproj.AssemblyReference.cache
+C:\Users\eula_\Documents\RPG- DIO\obj\Debug\net6.0\RPG- DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eula_\Documents\RPG- DIO\obj\Debug\net6.0\RPG- DIO.AssemblyInfoInputs.cache
+C:\Users\eula_\Documents\RPG- DIO\obj\Debug\net6.0\RPG- DIO.AssemblyInfo.cs
+C:\Users\eula_\Documents\RPG- DIO\obj\Debug\net6.0\RPG- DIO.csproj.CoreCompileInputs.cache
+C:\Users\eula_\Documents\RPG- DIO\obj\Debug\net6.0\RPG- DIO.dll
+C:\Users\eula_\Documents\RPG- DIO\obj\Debug\net6.0\refint\RPG- DIO.dll
+C:\Users\eula_\Documents\RPG- DIO\obj\Debug\net6.0\RPG- DIO.pdb
+C:\Users\eula_\Documents\RPG- DIO\obj\Debug\net6.0\RPG- DIO.genruntimeconfig.cache
+C:\Users\eula_\Documents\RPG- DIO\obj\Debug\net6.0\ref\RPG- DIO.dll
